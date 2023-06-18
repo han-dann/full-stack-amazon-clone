@@ -1,51 +1,70 @@
-# 🌟 Full Stack Amazon Clone 🛒
-Welcome to the Full Stack Amazon Clone! 🎉 Explore the ultimate shopping experience with this powerful e-commerce platform built with JavaScript for the front end, React for the user interface, and a Node.js and Express.js framework for the back end. This web application seamlessly integrates with Google Cloud's Firebase API for data management and utilizes Stripe for real-time payments during checkout.
+# Getting Started with Create React App
 
-# 🖥️ Technologies Used
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- JavaScript 🚀
-- React ⚛️
-- Node.js 🌐
-- Express.js 🚀
-- Firebase 🔥
-- Stripe 💳
+## Available Scripts
 
-<img width="1440" alt="Screenshot 2023-06-18 at 9 52 12 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/479e8ff4-dd76-40c7-afc2-02e28a32ec7e">
+In the project directory, you can run:
 
+### `npm start`
 
-<img width="1440" alt="Screenshot 2023-06-18 at 9 52 34 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/04db2be4-fcc7-446f-8f1e-665ac43133bd">
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<img width="1310" alt="Screenshot 2023-06-18 at 9 51 49 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/2fb4ed99-0da4-4cd0-ad11-296cf3bc088d">
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-# 📽️ DEMO
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/f8b32ddf-a13b-46c3-b9dc-542a34de1699
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# 🚀 Features
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Replica of the renowned Amazon interface for an immersive shopping experience.
-- Integration with Firebase API for efficient data management.
-- Seamless real-time payments with Stripe during checkout.
-- Deployed as a web application for easy access and usage.
+### `npm run eject`
 
-# 💻 Usage
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- Clone the repository to your local machine. 🖥️
-- Install the required dependencies for both the front end and back end.
-- Set up Firebase API credentials and Stripe configuration.
-- Start the development server to launch the application.
-- Explore the Amazon Clone web application through your browser.
-- Browse products, add them to the cart, and proceed to checkout.
-- Experience real-time payments using Stripe for secure transactions.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-# 📝 License
-This project is licensed under the MIT License.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-🌟 Thank you for using the Full Stack Amazon Clone! Enjoy an immersive shopping experience, seamless payments, and efficient data management. If you have any questions or suggestions, feel free to reach out to us. Happy shopping! 🚀
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
