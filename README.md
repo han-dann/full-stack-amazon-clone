@@ -1,5 +1,5 @@
 # 🌟 Full Stack Amazon Clone 🛒
-Welcome to the Full Stack Amazon Clone! 🎉 Explore the ultimate shopping experience with this powerful e-commerce platform built with JavaScript for the front end, React for the user interface, and a Node.js and Express.js framework for the backend. This web application seamlessly integrates with Firebase API for data management and utilizes Stripe for real-time payments during checkout.
+Welcome to the Full Stack Amazon Clone! 🎉 Explore the ultimate shopping experience with this powerful e-commerce platform built with JavaScript for the front end, React for the user interface, and a Node.js and Express.js framework for the back end. This web application seamlessly integrates with Google Cloud's Firebase API for data management and utilizes Stripe for real-time payments during checkout.
 
 # 🖥️ Technologies Used
 
