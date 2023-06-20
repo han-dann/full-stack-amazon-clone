@@ -1,5 +1,12 @@
-                                      # 🌟 Full Stack Amazon Clone 🛒
-Welcome to the Full Stack Amazon Clone! 🎉 Explore the ultimate shopping experience with this powerful e-commerce platform built with JavaScript for the front end, React for the user interface, and a Node.js and Express.js framework for the back end. This web application seamlessly integrates with Firebase API for data management and utilizes Stripe for real-time payments during checkout.
+<div align="center">
+  <img src="![amazonlogo](https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/78b4de06-c7e6-47bf-bbf8-78202e96002c)"
+alt="Amazon Clone Logo" width="200">
+  <h1>🚀 Amazon Clone 🚀</h1>
+  <p>
+    A full-stack Amazon clone project that replicates the core functionalities of the popular e-commerce platform. 🛒
+  </p>
+  <a href="[https://your-amazon-clone-url.com](https://clone-app-2778b.web.app/)">🔗 View Demo 🔗</a>
+</div>
 
 # 🖥️ Technologies Used
 
