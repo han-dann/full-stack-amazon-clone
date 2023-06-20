@@ -3,7 +3,7 @@
   <p>
     A full-stack Amazon clone project that replicates the core functionalities of the popular e-commerce platform. 🛒
   </p>
-  <a href="(https://clone-app-2778b.web.app/)">🔗 View Demo 🔗</a>
+  <a href="https://clone-app-2778b.web.app/">🔗 View Demo 🔗</a>
 </div>
 
 # 🖥️ Technologies Used
