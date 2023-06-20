@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="amazon-clone-logo.png" alt="Amazon Clone Logo" width="200">
+  <img src="[amazon-clone-logo.png](https://static.vecteezy.com/system/resources/previews/014/018/563/original/amazon-logo-on-transparent-background-free-vector.jpg)" alt="Amazon Clone Logo" width="200">
   <h1>🚀 Amazon Clone 🚀</h1>
   <p>
     A full-stack Amazon clone project that replicates the core functionalities of the popular e-commerce platform. 🛒
