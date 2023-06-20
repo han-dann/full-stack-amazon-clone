@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="![amazonlogo](https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/78b4de06-c7e6-47bf-bbf8-78202e96002c)"
-alt="Amazon Clone Logo" width="200">
   <h1>🚀 Amazon Clone 🚀</h1>
   <p>
     A full-stack Amazon clone project that replicates the core functionalities of the popular e-commerce platform. 🛒
