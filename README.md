@@ -1,52 +1,50 @@
-<div align="center">
-  <img src="[amazon-clone-logo.png](https://static.vecteezy.com/system/resources/previews/014/018/563/original/amazon-logo-on-transparent-background-free-vector.jpg)" alt="Amazon Clone Logo" width="200">
-  <h1>🚀 Amazon Clone 🚀</h1>
-  <p>
-    A full-stack Amazon clone project that replicates the core functionalities of the popular e-commerce platform. 🛒
-  </p>
-  <a href="https://clone-app-2778b.web.app/">🔗 View Demo 🔗</a>
-</div>
-# Table of Contents
-📖 Overview
-✨ Features
-💻 Technologies
-💾 Installation
-🚀 Usage
-👥 Contributing
-📄 License
-Overview
-This project is an Amazon clone developed with the goal of emulating the user experience and functionalities of the original platform. It provides users with the ability to browse products, add items to their cart, manage their orders, and complete secure payments using Stripe integration. The project is deployed as a web application, delivering a seamless shopping experience to users.
+# 🌟 Full Stack Amazon Clone 🛒
+Welcome to the Full Stack Amazon Clone! 🎉 Explore the ultimate shopping experience with this powerful e-commerce platform built with JavaScript for the front end, React for the user interface, and a Node.js and Express.js framework for the backend. This web application seamlessly integrates with Firebase API for data management and utilizes Stripe for real-time payments during checkout.
 
-Features
-🔑 User authentication and registration.
-🔍 Product browsing and search functionality.
-🛒 Shopping cart management with the ability to add, remove, and update items.
-🔒 Secure payments with Stripe integration.
-📋 Order history and tracking.
-📱 Responsive design for optimal user experience across devices.
-Technologies
-⚛️ React.js for building the user interface.
-🔥 Firebase for backend services, including user authentication and database management.
-💳 Stripe for handling secure payment transactions.
-🎨 HTML, CSS, and JavaScript for front-end development.
-🌐 Deployed as a web application using hosting services like Netlify or Vercel.
-Installation
-Clone the repository: git clone https://github.com/your-username/amazon-clone.git
-Navigate to the project directory: cd amazon-clone
-Install the dependencies: npm install
-Usage
-Set up your Firebase project and obtain the necessary credentials.
-Set up a Stripe account and obtain the API keys.
-Configure the Firebase and Stripe credentials in the project.
-Populate the product database with relevant data.
-Start the development server: npm start
-Open your browser and visit http://localhost:3000 to see the app in action.
-Contributing
-🤝 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+# 🖥️ Technologies Used
 
-License
-This project is licensed under the MIT License. 📄
+- JavaScript 🚀
+- React ⚛️
+- Node.js 🌐
+- Express.js 🚀
+- Firebase 🔥
+- Stripe 💳
 
+<img width="1440" alt="Screenshot 2023-06-18 at 9 52 12 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/479e8ff4-dd76-40c7-afc2-02e28a32ec7e">
+
+
+<img width="1440" alt="Screenshot 2023-06-18 at 9 52 34 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/04db2be4-fcc7-446f-8f1e-665ac43133bd">
+
+<img width="1310" alt="Screenshot 2023-06-18 at 9 51 49 AM" src="https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/2fb4ed99-0da4-4cd0-ad11-296cf3bc088d">
+
+
+# 📽️ DEMO
+
+https://github.com/han-dann/full-stack-amazon-clone/assets/98670479/f8b32ddf-a13b-46c3-b9dc-542a34de1699
+
+
+
+# 🚀 Features
+
+- Replica of the renowned Amazon interface for an immersive shopping experience.
+- Integration with Firebase API for efficient data management.
+- Seamless real-time payments with Stripe during checkout.
+- Deployed as a web application for easy access and usage.
+
+# 💻 Usage
+
+- Clone the repository to your local machine. 🖥️
+- Install the required dependencies for both the front end and back end.
+- Set up Firebase API credentials and Stripe configuration.
+- Start the development server to launch the application.
+- Explore the Amazon Clone web application through your browser.
+- Browse products, add them to the cart, and proceed to checkout.
+- Experience real-time payments using Stripe for secure transactions.
+
+# 📝 License
+This project is licensed under the MIT License.
+
+🌟 Thank you for using the Full Stack Amazon Clone! Enjoy an immersive shopping experience, seamless payments, and efficient data management. If you have any questions or suggestions, feel free to reach out to us. Happy shopping! 🚀
 
 
 
